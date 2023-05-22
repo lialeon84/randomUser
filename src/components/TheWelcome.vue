@@ -29,8 +29,8 @@ export default {
   
   data() {
     return {
-      firstName: "Rose",
-      lastName: "Leon",
+      firstName: "Jessica",
+      lastName: "Jones",
       email: "test@example.com",
       phone: "222-222-2222",
       picture: "https://randomuser.me/api/portraits/med/women/1.jpg",
